@@ -1,0 +1,16 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Introducción}{3}{section.1}%
+\contentsline {section}{\numberline {2}Modulos a instalar}{3}{section.2}%
+\contentsline {section}{\numberline {3}Análisis de módulos}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Facturación}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Empleados}{7}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Compras}{11}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Ventas}{14}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Punto de venta}{17}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Contactos}{22}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}CRM}{23}{subsection.3.7}%
+\contentsline {section}{\numberline {4}Copias de seguridad}{27}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Base de datos}{27}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Interfaz}{27}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}Comandos}{28}{subsubsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.2}Archivo de configuración de Odoo}{29}{subsection.4.2}%
