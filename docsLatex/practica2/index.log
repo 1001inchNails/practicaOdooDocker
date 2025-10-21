@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.26)  21 OCT 2025 19:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.26)  21 OCT 2025 20:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -445,115 +445,119 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 67--68
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
 
  []
 
-<../img/pr2odoo02-facturacMain.png, id=109, 1440.88312pt x 529.98pt>
-File: ../img/pr2odoo02-facturacMain.png Graphic file (type png)
-<use ../img/pr2odoo02-facturacMain.png>
-Package pdftex.def Info: ../img/pr2odoo02-facturacMain.png  used on input line 73.
-(pdftex.def)             Requested size: 195.0pt x 71.7221pt.
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
 
 
 
 [4 <../img/pr2odoo01-modulosInstalados.png>]
-<../img/pr2odoo03-facturac01.png, id=116, 421.575pt x 207.77625pt>
+<../img/pr2odoo02-facturacMain.png, id=116, 1440.88312pt x 529.98pt>
+File: ../img/pr2odoo02-facturacMain.png Graphic file (type png)
+<use ../img/pr2odoo02-facturacMain.png>
+Package pdftex.def Info: ../img/pr2odoo02-facturacMain.png  used on input line 77.
+(pdftex.def)             Requested size: 195.0pt x 71.7221pt.
+<../img/pr2odoo03-facturac01.png, id=117, 421.575pt x 207.77625pt>
 File: ../img/pr2odoo03-facturac01.png Graphic file (type png)
 <use ../img/pr2odoo03-facturac01.png>
-Package pdftex.def Info: ../img/pr2odoo03-facturac01.png  used on input line 82.
+Package pdftex.def Info: ../img/pr2odoo03-facturac01.png  used on input line 86.
 (pdftex.def)             Requested size: 195.0pt x 96.10768pt.
-<../img/pr2odoo04-facturac02.png, id=117, 492.33937pt x 403.5075pt>
+<../img/pr2odoo04-facturac02.png, id=118, 492.33937pt x 403.5075pt>
 File: ../img/pr2odoo04-facturac02.png Graphic file (type png)
 <use ../img/pr2odoo04-facturac02.png>
-Package pdftex.def Info: ../img/pr2odoo04-facturac02.png  used on input line 89.
+Package pdftex.def Info: ../img/pr2odoo04-facturac02.png  used on input line 93.
 (pdftex.def)             Requested size: 195.0pt x 159.81778pt.
-<../img/pr2odoo05-facturac03.png, id=118, 353.06906pt x 399.74344pt>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+[5 <../img/pr2odoo02-facturacMain.png> <../img/pr2odoo03-facturac01.png>]
+<../img/pr2odoo05-facturac03.png, id=127, 353.06906pt x 399.74344pt>
 File: ../img/pr2odoo05-facturac03.png Graphic file (type png)
 <use ../img/pr2odoo05-facturac03.png>
-Package pdftex.def Info: ../img/pr2odoo05-facturac03.png  used on input line 96.
+Package pdftex.def Info: ../img/pr2odoo05-facturac03.png  used on input line 100.
 (pdftex.def)             Requested size: 195.0pt x 220.7806pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-
-[5 <../img/pr2odoo02-facturacMain.png> <../img/pr2odoo03-facturac01.png> <../img/pr2odoo04-facturac02.png>]
-<../img/pr2odoo06-facturac04.png, id=129, 938.00438pt x 123.46124pt>
+<../img/pr2odoo06-facturac04.png, id=128, 938.00438pt x 123.46124pt>
 File: ../img/pr2odoo06-facturac04.png Graphic file (type png)
 <use ../img/pr2odoo06-facturac04.png>
-Package pdftex.def Info: ../img/pr2odoo06-facturac04.png  used on input line 103.
+Package pdftex.def Info: ../img/pr2odoo06-facturac04.png  used on input line 107.
 (pdftex.def)             Requested size: 195.0pt x 25.66576pt.
-<../img/pr2odoo07-facturac05.png, id=130, 824.32968pt x 467.49657pt>
+<../img/pr2odoo07-facturac05.png, id=129, 824.32968pt x 467.49657pt>
 File: ../img/pr2odoo07-facturac05.png Graphic file (type png)
 <use ../img/pr2odoo07-facturac05.png>
-Package pdftex.def Info: ../img/pr2odoo07-facturac05.png  used on input line 110.
+Package pdftex.def Info: ../img/pr2odoo07-facturac05.png  used on input line 114.
 (pdftex.def)             Requested size: 195.0pt x 110.58931pt.
-<../img/pr2odoo08-facturac06.png, id=131, 314.67563pt x 164.11313pt>
-File: ../img/pr2odoo08-facturac06.png Graphic file (type png)
-<use ../img/pr2odoo08-facturac06.png>
-Package pdftex.def Info: ../img/pr2odoo08-facturac06.png  used on input line 117.
-(pdftex.def)             Requested size: 195.0pt x 101.69899pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[6 <../img/pr2odoo05-facturac03.png> <../img/pr2odoo06-facturac04.png> <../img/pr2odoo07-facturac05.png>]
-<../img/pr2odoo09-facturac07.png, id=142, 763.35187pt x 254.45062pt>
+[6 <../img/pr2odoo04-facturac02.png> <../img/pr2odoo05-facturac03.png> <../img/pr2odoo06-facturac04.png>]
+<../img/pr2odoo08-facturac06.png, id=140, 314.67563pt x 164.11313pt>
+File: ../img/pr2odoo08-facturac06.png Graphic file (type png)
+<use ../img/pr2odoo08-facturac06.png>
+Package pdftex.def Info: ../img/pr2odoo08-facturac06.png  used on input line 121.
+(pdftex.def)             Requested size: 195.0pt x 101.69899pt.
+<../img/pr2odoo09-facturac07.png, id=141, 763.35187pt x 254.45062pt>
 File: ../img/pr2odoo09-facturac07.png Graphic file (type png)
 <use ../img/pr2odoo09-facturac07.png>
-Package pdftex.def Info: ../img/pr2odoo09-facturac07.png  used on input line 124.
+Package pdftex.def Info: ../img/pr2odoo09-facturac07.png  used on input line 128.
 (pdftex.def)             Requested size: 195.0pt x 64.99858pt.
-<../img/pr2odoo10-facturac08.png, id=143, 950.04938pt x 323.70938pt>
+<../img/pr2odoo10-facturac08.png, id=142, 950.04938pt x 323.70938pt>
 File: ../img/pr2odoo10-facturac08.png Graphic file (type png)
 <use ../img/pr2odoo10-facturac08.png>
-Package pdftex.def Info: ../img/pr2odoo10-facturac08.png  used on input line 131.
+Package pdftex.def Info: ../img/pr2odoo10-facturac08.png  used on input line 135.
 (pdftex.def)             Requested size: 195.0pt x 66.43988pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 138--139
+
+[7 <../img/pr2odoo07-facturac05.png> <../img/pr2odoo08-facturac06.png> <../img/pr2odoo09-facturac07.png> <../img/pr2odoo10-facturac08.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
 
  []
 
-<../img/pr2odoo11-empleadosMain.png, id=145, 1444.64719pt x 225.09094pt>
+<../img/pr2odoo11-empleadosMain.png, id=157, 1444.64719pt x 225.09094pt>
 File: ../img/pr2odoo11-empleadosMain.png Graphic file (type png)
 <use ../img/pr2odoo11-empleadosMain.png>
-Package pdftex.def Info: ../img/pr2odoo11-empleadosMain.png  used on input line 145.
+Package pdftex.def Info: ../img/pr2odoo11-empleadosMain.png  used on input line 165.
 (pdftex.def)             Requested size: 195.0pt x 30.38252pt.
-<../img/pr2odoo12-DatosBasicosDeNuevoEmpleado.png, id=146, 1134.48843pt x 542.77782pt>
+<../img/pr2odoo12-DatosBasicosDeNuevoEmpleado.png, id=158, 1134.48843pt x 542.77782pt>
 File: ../img/pr2odoo12-DatosBasicosDeNuevoEmpleado.png Graphic file (type png)
 <use ../img/pr2odoo12-DatosBasicosDeNuevoEmpleado.png>
-Package pdftex.def Info: ../img/pr2odoo12-DatosBasicosDeNuevoEmpleado.png  used on input line 152.
+Package pdftex.def Info: ../img/pr2odoo12-DatosBasicosDeNuevoEmpleado.png  used on input line 172.
 (pdftex.def)             Requested size: 195.0pt x 93.2897pt.
+<../img/pr2odoo13-curriculum.png, id=159, 1129.97156pt x 532.99126pt>
+File: ../img/pr2odoo13-curriculum.png Graphic file (type png)
+<use ../img/pr2odoo13-curriculum.png>
+Package pdftex.def Info: ../img/pr2odoo13-curriculum.png  used on input line 179.
+(pdftex.def)             Requested size: 195.0pt x 91.97362pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[7 <../img/pr2odoo08-facturac06.png> <../img/pr2odoo09-facturac07.png> <../img/pr2odoo10-facturac08.png> <../img/pr2odoo11-empleadosMain.png>]
-<../img/pr2odoo13-curriculum.png, id=160, 1129.97156pt x 532.99126pt>
-File: ../img/pr2odoo13-curriculum.png Graphic file (type png)
-<use ../img/pr2odoo13-curriculum.png>
-Package pdftex.def Info: ../img/pr2odoo13-curriculum.png  used on input line 159.
-(pdftex.def)             Requested size: 195.0pt x 91.97362pt.
-<../img/pr2odoo14-habilidades.png, id=161, 1142.76938pt x 539.76656pt>
+[8 <../img/pr2odoo11-empleadosMain.png> <../img/pr2odoo12-DatosBasicosDeNuevoEmpleado.png>]
+<../img/pr2odoo14-habilidades.png, id=173, 1142.76938pt x 539.76656pt>
 File: ../img/pr2odoo14-habilidades.png Graphic file (type png)
 <use ../img/pr2odoo14-habilidades.png>
-Package pdftex.def Info: ../img/pr2odoo14-habilidades.png  used on input line 166.
+Package pdftex.def Info: ../img/pr2odoo14-habilidades.png  used on input line 186.
 (pdftex.def)             Requested size: 195.0pt x 92.09677pt.
-<../img/pr2odoo15-informacionDeTrabajo.png, id=162, 1128.46594pt x 594.72188pt>
+<../img/pr2odoo15-informacionDeTrabajo.png, id=174, 1128.46594pt x 594.72188pt>
 File: ../img/pr2odoo15-informacionDeTrabajo.png Graphic file (type png)
 <use ../img/pr2odoo15-informacionDeTrabajo.png>
-Package pdftex.def Info: ../img/pr2odoo15-informacionDeTrabajo.png  used on input line 173.
+Package pdftex.def Info: ../img/pr2odoo15-informacionDeTrabajo.png  used on input line 193.
 (pdftex.def)             Requested size: 195.0pt x 102.76205pt.
-<../img/pr2odoo16-informacionPrivada.png, id=163, 933.4875pt x 670.75594pt>
+<../img/pr2odoo16-informacionPrivada.png, id=175, 933.4875pt x 670.75594pt>
 File: ../img/pr2odoo16-informacionPrivada.png Graphic file (type png)
 <use ../img/pr2odoo16-informacionPrivada.png>
-Package pdftex.def Info: ../img/pr2odoo16-informacionPrivada.png  used on input line 180.
+Package pdftex.def Info: ../img/pr2odoo16-informacionPrivada.png  used on input line 200.
 (pdftex.def)             Requested size: 195.0pt x 140.11575pt.
 
 
@@ -561,26 +565,26 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[8 <../img/pr2odoo12-DatosBasicosDeNuevoEmpleado.png> <../img/pr2odoo13-curriculum.png> <../img/pr2odoo14-habilidades.png> <../img/pr2odoo15-informacionDeTrabajo.png>]
-<../img/pr2odoo17-ajustes.png, id=176, 949.29657pt x 498.36188pt>
+[9 <../img/pr2odoo13-curriculum.png> <../img/pr2odoo14-habilidades.png> <../img/pr2odoo15-informacionDeTrabajo.png>]
+<../img/pr2odoo17-ajustes.png, id=186, 949.29657pt x 498.36188pt>
 File: ../img/pr2odoo17-ajustes.png Graphic file (type png)
 <use ../img/pr2odoo17-ajustes.png>
-Package pdftex.def Info: ../img/pr2odoo17-ajustes.png  used on input line 187.
+Package pdftex.def Info: ../img/pr2odoo17-ajustes.png  used on input line 207.
 (pdftex.def)             Requested size: 195.0pt x 102.37016pt.
-<../img/pr2odoo18-empleadoCreado.png, id=177, 782.17218pt x 249.18094pt>
+<../img/pr2odoo18-empleadoCreado.png, id=187, 782.17218pt x 249.18094pt>
 File: ../img/pr2odoo18-empleadoCreado.png Graphic file (type png)
 <use ../img/pr2odoo18-empleadoCreado.png>
-Package pdftex.def Info: ../img/pr2odoo18-empleadoCreado.png  used on input line 194.
+Package pdftex.def Info: ../img/pr2odoo18-empleadoCreado.png  used on input line 214.
 (pdftex.def)             Requested size: 195.0pt x 62.12016pt.
-<../img/pr2odoo19-departamentos.png, id=178, 754.31813pt x 196.48407pt>
+<../img/pr2odoo19-departamentos.png, id=188, 754.31813pt x 196.48407pt>
 File: ../img/pr2odoo19-departamentos.png Graphic file (type png)
 <use ../img/pr2odoo19-departamentos.png>
-Package pdftex.def Info: ../img/pr2odoo19-departamentos.png  used on input line 201.
+Package pdftex.def Info: ../img/pr2odoo19-departamentos.png  used on input line 221.
 (pdftex.def)             Requested size: 195.0pt x 50.79083pt.
-<../img/pr2odoo20-habilidadesDeEmpleado.png, id=179, 1048.66782pt x 466.74374pt>
+<../img/pr2odoo20-habilidadesDeEmpleado.png, id=189, 1048.66782pt x 466.74374pt>
 File: ../img/pr2odoo20-habilidadesDeEmpleado.png Graphic file (type png)
 <use ../img/pr2odoo20-habilidadesDeEmpleado.png>
-Package pdftex.def Info: ../img/pr2odoo20-habilidadesDeEmpleado.png  used on input line 208.
+Package pdftex.def Info: ../img/pr2odoo20-habilidadesDeEmpleado.png  used on input line 228.
 (pdftex.def)             Requested size: 195.0pt x 86.7878pt.
 
 
@@ -588,31 +592,31 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[9 <../img/pr2odoo16-informacionPrivada.png> <../img/pr2odoo17-ajustes.png> <../img/pr2odoo18-empleadoCreado.png> <../img/pr2odoo19-departamentos.png>]
-<../img/pr2odoo21-ubicacionDeTrabajo.png, id=192, 993.7125pt x 237.13594pt>
+[10 <../img/pr2odoo16-informacionPrivada.png> <../img/pr2odoo17-ajustes.png> <../img/pr2odoo18-empleadoCreado.png> <../img/pr2odoo19-departamentos.png>]
+<../img/pr2odoo21-ubicacionDeTrabajo.png, id=202, 993.7125pt x 237.13594pt>
 File: ../img/pr2odoo21-ubicacionDeTrabajo.png Graphic file (type png)
 <use ../img/pr2odoo21-ubicacionDeTrabajo.png>
-Package pdftex.def Info: ../img/pr2odoo21-ubicacionDeTrabajo.png  used on input line 215.
+Package pdftex.def Info: ../img/pr2odoo21-ubicacionDeTrabajo.png  used on input line 235.
 (pdftex.def)             Requested size: 195.0pt x 46.5326pt.
-<../img/pr2odoo22-horarios.png, id=193, 542.025pt x 158.09062pt>
+<../img/pr2odoo22-horarios.png, id=203, 542.025pt x 158.09062pt>
 File: ../img/pr2odoo22-horarios.png Graphic file (type png)
 <use ../img/pr2odoo22-horarios.png>
-Package pdftex.def Info: ../img/pr2odoo22-horarios.png  used on input line 222.
+Package pdftex.def Info: ../img/pr2odoo22-horarios.png  used on input line 242.
 (pdftex.def)             Requested size: 195.0pt x 56.87398pt.
-<../img/pr2odoo23-motivosSalida.png, id=194, 459.21562pt x 250.68657pt>
+<../img/pr2odoo23-motivosSalida.png, id=204, 459.21562pt x 250.68657pt>
 File: ../img/pr2odoo23-motivosSalida.png Graphic file (type png)
 <use ../img/pr2odoo23-motivosSalida.png>
-Package pdftex.def Info: ../img/pr2odoo23-motivosSalida.png  used on input line 229.
+Package pdftex.def Info: ../img/pr2odoo23-motivosSalida.png  used on input line 249.
 (pdftex.def)             Requested size: 195.0pt x 106.45049pt.
-<../img/pr2odoo24-tiposHabilidad.png, id=195, 1440.88312pt x 231.86626pt>
+<../img/pr2odoo24-tiposHabilidad.png, id=205, 1440.88312pt x 231.86626pt>
 File: ../img/pr2odoo24-tiposHabilidad.png Graphic file (type png)
 <use ../img/pr2odoo24-tiposHabilidad.png>
-Package pdftex.def Info: ../img/pr2odoo24-tiposHabilidad.png  used on input line 236.
+Package pdftex.def Info: ../img/pr2odoo24-tiposHabilidad.png  used on input line 256.
 (pdftex.def)             Requested size: 195.0pt x 31.37842pt.
-<../img/pr2odoo25-puestosTrabajo.png, id=196, 561.59813pt x 166.37157pt>
+<../img/pr2odoo25-puestosTrabajo.png, id=206, 561.59813pt x 166.37157pt>
 File: ../img/pr2odoo25-puestosTrabajo.png Graphic file (type png)
 <use ../img/pr2odoo25-puestosTrabajo.png>
-Package pdftex.def Info: ../img/pr2odoo25-puestosTrabajo.png  used on input line 243.
+Package pdftex.def Info: ../img/pr2odoo25-puestosTrabajo.png  used on input line 263.
 (pdftex.def)             Requested size: 195.0pt x 57.76634pt.
 
 
@@ -620,124 +624,124 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[10 <../img/pr2odoo20-habilidadesDeEmpleado.png> <../img/pr2odoo21-ubicacionDeTrabajo.png> <../img/pr2odoo22-horarios.png> <../img/pr2odoo23-motivosSalida.png> <../img/pr2odoo24-tiposHabilidad.png>]
-<../img/pr2odoo26-tiposEmpleado.png, id=211, 543.53062pt x 418.56375pt>
+[11 <../img/pr2odoo20-habilidadesDeEmpleado.png> <../img/pr2odoo21-ubicacionDeTrabajo.png> <../img/pr2odoo22-horarios.png> <../img/pr2odoo23-motivosSalida.png> <../img/pr2odoo24-tiposHabilidad.png>]
+<../img/pr2odoo26-tiposEmpleado.png, id=221, 543.53062pt x 418.56375pt>
 File: ../img/pr2odoo26-tiposEmpleado.png Graphic file (type png)
 <use ../img/pr2odoo26-tiposEmpleado.png>
-Package pdftex.def Info: ../img/pr2odoo26-tiposEmpleado.png  used on input line 250.
+Package pdftex.def Info: ../img/pr2odoo26-tiposEmpleado.png  used on input line 270.
 (pdftex.def)             Requested size: 195.0pt x 150.1655pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 257--258
+Underfull \hbox (badness 10000) in paragraph at lines 281--282
 
  []
 
-<../img/pr2odoo27-pantallaPrincipalCompras.png, id=213, 1444.64719pt x 522.45187pt>
+<../img/pr2odoo27-pantallaPrincipalCompras.png, id=223, 1444.64719pt x 522.45187pt>
 File: ../img/pr2odoo27-pantallaPrincipalCompras.png Graphic file (type png)
 <use ../img/pr2odoo27-pantallaPrincipalCompras.png>
-Package pdftex.def Info: ../img/pr2odoo27-pantallaPrincipalCompras.png  used on input line 265.
+Package pdftex.def Info: ../img/pr2odoo27-pantallaPrincipalCompras.png  used on input line 288.
 (pdftex.def)             Requested size: 195.0pt x 70.51997pt.
-<../img/pr2odoo28-nuevoPresupuesto.png, id=214, 1029.8475pt x 633.11531pt>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+[12 <../img/pr2odoo25-puestosTrabajo.png> <../img/pr2odoo26-tiposEmpleado.png>]
+<../img/pr2odoo28-nuevoPresupuesto.png, id=232, 1029.8475pt x 633.11531pt>
 File: ../img/pr2odoo28-nuevoPresupuesto.png Graphic file (type png)
 <use ../img/pr2odoo28-nuevoPresupuesto.png>
-Package pdftex.def Info: ../img/pr2odoo28-nuevoPresupuesto.png  used on input line 272.
+Package pdftex.def Info: ../img/pr2odoo28-nuevoPresupuesto.png  used on input line 295.
 (pdftex.def)             Requested size: 195.0pt x 119.87775pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-
-[11 <../img/pr2odoo25-puestosTrabajo.png> <../img/pr2odoo26-tiposEmpleado.png> <../img/pr2odoo27-pantallaPrincipalCompras.png>]
-<../img/pr2odoo29-otraInfo.png, id=225, 962.84718pt x 483.30562pt>
+<../img/pr2odoo29-otraInfo.png, id=233, 962.84718pt x 483.30562pt>
 File: ../img/pr2odoo29-otraInfo.png Graphic file (type png)
 <use ../img/pr2odoo29-otraInfo.png>
-Package pdftex.def Info: ../img/pr2odoo29-otraInfo.png  used on input line 279.
+Package pdftex.def Info: ../img/pr2odoo29-otraInfo.png  used on input line 302.
 (pdftex.def)             Requested size: 195.0pt x 97.87622pt.
-<../img/pr2odoo30-pedidoCreado.png, id=226, 1188.69093pt x 603.75563pt>
+<../img/pr2odoo30-pedidoCreado.png, id=234, 1188.69093pt x 603.75563pt>
 File: ../img/pr2odoo30-pedidoCreado.png Graphic file (type png)
 <use ../img/pr2odoo30-pedidoCreado.png>
-Package pdftex.def Info: ../img/pr2odoo30-pedidoCreado.png  used on input line 286.
+Package pdftex.def Info: ../img/pr2odoo30-pedidoCreado.png  used on input line 309.
 (pdftex.def)             Requested size: 195.0pt x 99.03499pt.
-<../img/pr2odoo31-productosRecibidos.png, id=227, 1268.48906pt x 480.29437pt>
+<../img/pr2odoo31-productosRecibidos.png, id=235, 1268.48906pt x 480.29437pt>
 File: ../img/pr2odoo31-productosRecibidos.png Graphic file (type png)
 <use ../img/pr2odoo31-productosRecibidos.png>
-Package pdftex.def Info: ../img/pr2odoo31-productosRecibidos.png  used on input line 293.
+Package pdftex.def Info: ../img/pr2odoo31-productosRecibidos.png  used on input line 316.
 (pdftex.def)             Requested size: 195.0pt x 73.82924pt.
-<../img/pr2odoo32-facturaProveedorCreada.png, id=228, 1344.52313pt x 670.75594pt>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+[13 <../img/pr2odoo27-pantallaPrincipalCompras.png> <../img/pr2odoo28-nuevoPresupuesto.png> <../img/pr2odoo29-otraInfo.png> <../img/pr2odoo30-pedidoCreado.png>]
+<../img/pr2odoo32-facturaProveedorCreada.png, id=249, 1344.52313pt x 670.75594pt>
 File: ../img/pr2odoo32-facturaProveedorCreada.png Graphic file (type png)
 <use ../img/pr2odoo32-facturaProveedorCreada.png>
-Package pdftex.def Info: ../img/pr2odoo32-facturaProveedorCreada.png  used on input line 300.
+Package pdftex.def Info: ../img/pr2odoo32-facturaProveedorCreada.png  used on input line 323.
 (pdftex.def)             Requested size: 195.0pt x 97.27246pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-
-[12 <../img/pr2odoo28-nuevoPresupuesto.png> <../img/pr2odoo29-otraInfo.png> <../img/pr2odoo30-pedidoCreado.png> <../img/pr2odoo31-productosRecibidos.png>]
-<../img/pr2odoo33-preparadaParaPago.png, id=241, 1323.44438pt x 641.39626pt>
+<../img/pr2odoo33-preparadaParaPago.png, id=250, 1323.44438pt x 641.39626pt>
 File: ../img/pr2odoo33-preparadaParaPago.png Graphic file (type png)
 <use ../img/pr2odoo33-preparadaParaPago.png>
-Package pdftex.def Info: ../img/pr2odoo33-preparadaParaPago.png  used on input line 307.
+Package pdftex.def Info: ../img/pr2odoo33-preparadaParaPago.png  used on input line 330.
 (pdftex.def)             Requested size: 195.0pt x 94.50237pt.
-<../img/pr2odoo34-pantallaPago.png, id=242, 928.97063pt x 386.94562pt>
+<../img/pr2odoo34-pantallaPago.png, id=251, 928.97063pt x 386.94562pt>
 File: ../img/pr2odoo34-pantallaPago.png Graphic file (type png)
 <use ../img/pr2odoo34-pantallaPago.png>
-Package pdftex.def Info: ../img/pr2odoo34-pantallaPago.png  used on input line 314.
+Package pdftex.def Info: ../img/pr2odoo34-pantallaPago.png  used on input line 337.
 (pdftex.def)             Requested size: 195.0pt x 81.21964pt.
-<../img/pr2odoo35-facturaPagada.png, id=243, 1385.92781pt x 661.72218pt>
+<../img/pr2odoo35-facturaPagada.png, id=252, 1385.92781pt x 661.72218pt>
 File: ../img/pr2odoo35-facturaPagada.png Graphic file (type png)
 <use ../img/pr2odoo35-facturaPagada.png>
-Package pdftex.def Info: ../img/pr2odoo35-facturaPagada.png  used on input line 321.
+Package pdftex.def Info: ../img/pr2odoo35-facturaPagada.png  used on input line 344.
 (pdftex.def)             Requested size: 195.0pt x 93.09483pt.
-<../img/pr2odoo36-pantallaProductos.png, id=244, 1444.64719pt x 161.10187pt>
-File: ../img/pr2odoo36-pantallaProductos.png Graphic file (type png)
-<use ../img/pr2odoo36-pantallaProductos.png>
-Package pdftex.def Info: ../img/pr2odoo36-pantallaProductos.png  used on input line 328.
-(pdftex.def)             Requested size: 195.0pt x 21.74535pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[13 <../img/pr2odoo32-facturaProveedorCreada.png> <../img/pr2odoo33-preparadaParaPago.png> <../img/pr2odoo34-pantallaPago.png> <../img/pr2odoo35-facturaPagada.png>]
-<../img/pr2odoo37-analisisCompras.png, id=258, 1444.64719pt x 651.18282pt>
+[14 <../img/pr2odoo31-productosRecibidos.png> <../img/pr2odoo32-facturaProveedorCreada.png> <../img/pr2odoo33-preparadaParaPago.png> <../img/pr2odoo34-pantallaPago.png>]
+<../img/pr2odoo36-pantallaProductos.png, id=265, 1444.64719pt x 161.10187pt>
+File: ../img/pr2odoo36-pantallaProductos.png Graphic file (type png)
+<use ../img/pr2odoo36-pantallaProductos.png>
+Package pdftex.def Info: ../img/pr2odoo36-pantallaProductos.png  used on input line 351.
+(pdftex.def)             Requested size: 195.0pt x 21.74535pt.
+<../img/pr2odoo37-analisisCompras.png, id=266, 1444.64719pt x 651.18282pt>
 File: ../img/pr2odoo37-analisisCompras.png Graphic file (type png)
 <use ../img/pr2odoo37-analisisCompras.png>
-Package pdftex.def Info: ../img/pr2odoo37-analisisCompras.png  used on input line 335.
+Package pdftex.def Info: ../img/pr2odoo37-analisisCompras.png  used on input line 358.
 (pdftex.def)             Requested size: 195.0pt x 87.89595pt.
-<../img/pr2odoo38-preciosProveedor.png, id=259, 1444.64719pt x 173.14688pt>
+<../img/pr2odoo38-preciosProveedor.png, id=267, 1444.64719pt x 173.14688pt>
 File: ../img/pr2odoo38-preciosProveedor.png Graphic file (type png)
 <use ../img/pr2odoo38-preciosProveedor.png>
-Package pdftex.def Info: ../img/pr2odoo38-preciosProveedor.png  used on input line 342.
+Package pdftex.def Info: ../img/pr2odoo38-preciosProveedor.png  used on input line 365.
 (pdftex.def)             Requested size: 195.0pt x 23.37117pt.
-<../img/pr2odoo39-categoriasPrioductos.png, id=260, 1444.64719pt x 219.82124pt>
+<../img/pr2odoo39-categoriasPrioductos.png, id=268, 1444.64719pt x 219.82124pt>
 File: ../img/pr2odoo39-categoriasPrioductos.png Graphic file (type png)
 <use ../img/pr2odoo39-categoriasPrioductos.png>
-Package pdftex.def Info: ../img/pr2odoo39-categoriasPrioductos.png  used on input line 349.
+Package pdftex.def Info: ../img/pr2odoo39-categoriasPrioductos.png  used on input line 372.
 (pdftex.def)             Requested size: 195.0pt x 29.67122pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 356--357
+Underfull \hbox (badness 10000) in paragraph at lines 383--384
 
  []
 
 
 
-[14 <../img/pr2odoo36-pantallaProductos.png> <../img/pr2odoo37-analisisCompras.png> <../img/pr2odoo38-preciosProveedor.png> <../img/pr2odoo39-categoriasPrioductos.png>]
-<../img/pr2odoo40-pantallaPrincipalVentas.png, id=276, 1444.64719pt x 548.80031pt>
+[15 <../img/pr2odoo35-facturaPagada.png> <../img/pr2odoo36-pantallaProductos.png> <../img/pr2odoo37-analisisCompras.png> <../img/pr2odoo38-preciosProveedor.png> <../img/pr2odoo39-categoriasPrioductos.png>]
+<../img/pr2odoo40-pantallaPrincipalVentas.png, id=284, 1444.64719pt x 548.80031pt>
 File: ../img/pr2odoo40-pantallaPrincipalVentas.png Graphic file (type png)
 <use ../img/pr2odoo40-pantallaPrincipalVentas.png>
-Package pdftex.def Info: ../img/pr2odoo40-pantallaPrincipalVentas.png  used on input line 383.
+Package pdftex.def Info: ../img/pr2odoo40-pantallaPrincipalVentas.png  used on input line 390.
 (pdftex.def)             Requested size: 195.0pt x 74.07646pt.
-<../img/pr2odoo41-nuevoPresupuesto.png, id=277, 1032.10594pt x 483.30562pt>
+<../img/pr2odoo41-nuevoPresupuesto.png, id=285, 1032.10594pt x 483.30562pt>
 File: ../img/pr2odoo41-nuevoPresupuesto.png Graphic file (type png)
 <use ../img/pr2odoo41-nuevoPresupuesto.png>
-Package pdftex.def Info: ../img/pr2odoo41-nuevoPresupuesto.png  used on input line 390.
+Package pdftex.def Info: ../img/pr2odoo41-nuevoPresupuesto.png  used on input line 397.
 (pdftex.def)             Requested size: 195.0pt x 91.31279pt.
-<../img/pr2odoo42-otraInfo.png, id=278, 962.84718pt x 643.6547pt>
+<../img/pr2odoo42-otraInfo.png, id=286, 962.84718pt x 643.6547pt>
 File: ../img/pr2odoo42-otraInfo.png Graphic file (type png)
 <use ../img/pr2odoo42-otraInfo.png>
-Package pdftex.def Info: ../img/pr2odoo42-otraInfo.png  used on input line 397.
+Package pdftex.def Info: ../img/pr2odoo42-otraInfo.png  used on input line 404.
 (pdftex.def)             Requested size: 195.0pt x 130.34918pt.
 
 
@@ -745,26 +749,26 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[15 <../img/pr2odoo40-pantallaPrincipalVentas.png> <../img/pr2odoo41-nuevoPresupuesto.png>]
-<../img/pr2odoo43-presupuestoCreado.png, id=292, 971.12813pt x 472.76625pt>
+[16 <../img/pr2odoo40-pantallaPrincipalVentas.png> <../img/pr2odoo41-nuevoPresupuesto.png>]
+<../img/pr2odoo43-presupuestoCreado.png, id=295, 971.12813pt x 472.76625pt>
 File: ../img/pr2odoo43-presupuestoCreado.png Graphic file (type png)
 <use ../img/pr2odoo43-presupuestoCreado.png>
-Package pdftex.def Info: ../img/pr2odoo43-presupuestoCreado.png  used on input line 404.
+Package pdftex.def Info: ../img/pr2odoo43-presupuestoCreado.png  used on input line 411.
 (pdftex.def)             Requested size: 195.0pt x 94.92668pt.
-<../img/pr2odoo44-crearBorradorFactura.png, id=293, 691.83469pt x 207.02344pt>
+<../img/pr2odoo44-crearBorradorFactura.png, id=296, 691.83469pt x 207.02344pt>
 File: ../img/pr2odoo44-crearBorradorFactura.png Graphic file (type png)
 <use ../img/pr2odoo44-crearBorradorFactura.png>
-Package pdftex.def Info: ../img/pr2odoo44-crearBorradorFactura.png  used on input line 411.
+Package pdftex.def Info: ../img/pr2odoo44-crearBorradorFactura.png  used on input line 418.
 (pdftex.def)             Requested size: 195.0pt x 58.35155pt.
-<../img/pr2odoo45-borradorCreado.png, id=294, 1231.60126pt x 554.82281pt>
+<../img/pr2odoo45-borradorCreado.png, id=297, 1231.60126pt x 554.82281pt>
 File: ../img/pr2odoo45-borradorCreado.png Graphic file (type png)
 <use ../img/pr2odoo45-borradorCreado.png>
-Package pdftex.def Info: ../img/pr2odoo45-borradorCreado.png  used on input line 418.
+Package pdftex.def Info: ../img/pr2odoo45-borradorCreado.png  used on input line 425.
 (pdftex.def)             Requested size: 195.0pt x 87.84221pt.
-<../img/pr2odoo46-facturaCreada.png, id=295, 1246.6575pt x 586.44093pt>
+<../img/pr2odoo46-facturaCreada.png, id=298, 1246.6575pt x 586.44093pt>
 File: ../img/pr2odoo46-facturaCreada.png Graphic file (type png)
 <use ../img/pr2odoo46-facturaCreada.png>
-Package pdftex.def Info: ../img/pr2odoo46-facturaCreada.png  used on input line 425.
+Package pdftex.def Info: ../img/pr2odoo46-facturaCreada.png  used on input line 432.
 (pdftex.def)             Requested size: 195.0pt x 91.7296pt.
 
 
@@ -772,57 +776,61 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[16 <../img/pr2odoo42-otraInfo.png> <../img/pr2odoo43-presupuestoCreado.png> <../img/pr2odoo44-crearBorradorFactura.png> <../img/pr2odoo45-borradorCreado.png>]
-<../img/pr2odoo47-listaVentas.png, id=308, 1444.64719pt x 173.14688pt>
+[17 <../img/pr2odoo42-otraInfo.png> <../img/pr2odoo43-presupuestoCreado.png> <../img/pr2odoo44-crearBorradorFactura.png> <../img/pr2odoo45-borradorCreado.png>]
+<../img/pr2odoo47-listaVentas.png, id=311, 1444.64719pt x 173.14688pt>
 File: ../img/pr2odoo47-listaVentas.png Graphic file (type png)
 <use ../img/pr2odoo47-listaVentas.png>
-Package pdftex.def Info: ../img/pr2odoo47-listaVentas.png  used on input line 432.
+Package pdftex.def Info: ../img/pr2odoo47-listaVentas.png  used on input line 439.
 (pdftex.def)             Requested size: 195.0pt x 23.37117pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--439
+Underfull \hbox (badness 10000) in paragraph at lines 474--475
 
  []
 
-<../img/pr2odoo48-pantallaPrincipal.png, id=310, 621.07031pt x 127.22531pt>
+
+
+[18 <../img/pr2odoo46-facturaCreada.png> <../img/pr2odoo47-listaVentas.png>]
+<../img/pr2odoo48-pantallaPrincipal.png, id=321, 621.07031pt x 127.22531pt>
 File: ../img/pr2odoo48-pantallaPrincipal.png Graphic file (type png)
 <use ../img/pr2odoo48-pantallaPrincipal.png>
-Package pdftex.def Info: ../img/pr2odoo48-pantallaPrincipal.png  used on input line 442.
+Package pdftex.def Info: ../img/pr2odoo48-pantallaPrincipal.png  used on input line 481.
 (pdftex.def)             Requested size: 195.0pt x 39.94417pt.
-<../img/pr2odoo49-nuevoTPV.png, id=311, 430.60875pt x 362.85562pt>
+<../img/pr2odoo49-nuevoTPV.png, id=322, 430.60875pt x 362.85562pt>
 File: ../img/pr2odoo49-nuevoTPV.png Graphic file (type png)
 <use ../img/pr2odoo49-nuevoTPV.png>
-Package pdftex.def Info: ../img/pr2odoo49-nuevoTPV.png  used on input line 449.
+Package pdftex.def Info: ../img/pr2odoo49-nuevoTPV.png  used on input line 488.
 (pdftex.def)             Requested size: 195.0pt x 164.31888pt.
-<../img/pr2odoo50-tpvCreado.png, id=312, 498.36188pt x 197.23688pt>
+<../img/pr2odoo50-tpvCreado.png, id=323, 498.36188pt x 197.23688pt>
 File: ../img/pr2odoo50-tpvCreado.png Graphic file (type png)
 <use ../img/pr2odoo50-tpvCreado.png>
-Package pdftex.def Info: ../img/pr2odoo50-tpvCreado.png  used on input line 456.
+Package pdftex.def Info: ../img/pr2odoo50-tpvCreado.png  used on input line 495.
 (pdftex.def)             Requested size: 195.0pt x 77.17487pt.
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[17 <../img/pr2odoo46-facturaCreada.png> <../img/pr2odoo47-listaVentas.png> <../img/pr2odoo48-pantallaPrincipal.png> <../img/pr2odoo49-nuevoTPV.png>]
-<../img/pr2odoo51-modoAcceso.png, id=325, 383.93437pt x 108.405pt>
+[19 <../img/pr2odoo48-pantallaPrincipal.png> <../img/pr2odoo49-nuevoTPV.png>]
+<../img/pr2odoo51-modoAcceso.png, id=333, 383.93437pt x 108.405pt>
 File: ../img/pr2odoo51-modoAcceso.png Graphic file (type png)
 <use ../img/pr2odoo51-modoAcceso.png>
-Package pdftex.def Info: ../img/pr2odoo51-modoAcceso.png  used on input line 463.
+Package pdftex.def Info: ../img/pr2odoo51-modoAcceso.png  used on input line 502.
 (pdftex.def)             Requested size: 195.0pt x 55.05919pt.
-<../img/pr2odoo52-escojerCajero.png, id=326, 822.07124pt x 325.96782pt>
+<../img/pr2odoo52-escojerCajero.png, id=334, 822.07124pt x 325.96782pt>
 File: ../img/pr2odoo52-escojerCajero.png Graphic file (type png)
 <use ../img/pr2odoo52-escojerCajero.png>
-Package pdftex.def Info: ../img/pr2odoo52-escojerCajero.png  used on input line 470.
+Package pdftex.def Info: ../img/pr2odoo52-escojerCajero.png  used on input line 509.
 (pdftex.def)             Requested size: 195.0pt x 77.31868pt.
-<../img/pr2odoo53-controlAperturaCaja.png, id=327, 846.16125pt x 609.02531pt>
+<../img/pr2odoo53-controlAperturaCaja.png, id=335, 846.16125pt x 609.02531pt>
 File: ../img/pr2odoo53-controlAperturaCaja.png Graphic file (type png)
 <use ../img/pr2odoo53-controlAperturaCaja.png>
-Package pdftex.def Info: ../img/pr2odoo53-controlAperturaCaja.png  used on input line 477.
+Package pdftex.def Info: ../img/pr2odoo53-controlAperturaCaja.png  used on input line 516.
 (pdftex.def)             Requested size: 195.0pt x 140.35165pt.
-<../img/pr2odoo54-creacionCliente.png, id=328, 776.9025pt x 674.52pt>
+<../img/pr2odoo54-creacionCliente.png, id=336, 776.9025pt x 674.52pt>
 File: ../img/pr2odoo54-creacionCliente.png Graphic file (type png)
 <use ../img/pr2odoo54-creacionCliente.png>
-Package pdftex.def Info: ../img/pr2odoo54-creacionCliente.png  used on input line 484.
+Package pdftex.def Info: ../img/pr2odoo54-creacionCliente.png  used on input line 523.
 (pdftex.def)             Requested size: 195.0pt x 169.29858pt.
 
 
@@ -830,16 +838,16 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[18 <../img/pr2odoo50-tpvCreado.png> <../img/pr2odoo51-modoAcceso.png> <../img/pr2odoo52-escojerCajero.png> <../img/pr2odoo53-controlAperturaCaja.png>]
-<../img/pr2odoo55-clienteCreado.png, id=341, 777.65532pt x 667.74469pt>
+[20 <../img/pr2odoo50-tpvCreado.png> <../img/pr2odoo51-modoAcceso.png> <../img/pr2odoo52-escojerCajero.png> <../img/pr2odoo53-controlAperturaCaja.png>]
+<../img/pr2odoo55-clienteCreado.png, id=349, 777.65532pt x 667.74469pt>
 File: ../img/pr2odoo55-clienteCreado.png Graphic file (type png)
 <use ../img/pr2odoo55-clienteCreado.png>
-Package pdftex.def Info: ../img/pr2odoo55-clienteCreado.png  used on input line 491.
+Package pdftex.def Info: ../img/pr2odoo55-clienteCreado.png  used on input line 530.
 (pdftex.def)             Requested size: 195.0pt x 167.43501pt.
-<../img/pr2odoo56-operacionesCliente101.png, id=342, 624.08156pt x 682.80093pt>
+<../img/pr2odoo56-operacionesCliente101.png, id=350, 624.08156pt x 682.80093pt>
 File: ../img/pr2odoo56-operacionesCliente101.png Graphic file (type png)
 <use ../img/pr2odoo56-operacionesCliente101.png>
-Package pdftex.def Info: ../img/pr2odoo56-operacionesCliente101.png  used on input line 498.
+Package pdftex.def Info: ../img/pr2odoo56-operacionesCliente101.png  used on input line 537.
 (pdftex.def)             Requested size: 195.0pt x 213.3435pt.
 
 
@@ -847,16 +855,16 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[19 <../img/pr2odoo54-creacionCliente.png> <../img/pr2odoo55-clienteCreado.png>]
-<../img/pr2odoo57-diferentesClientesSimultaneos.png, id=352, 615.80063pt x 692.5875pt>
+[21 <../img/pr2odoo54-creacionCliente.png> <../img/pr2odoo55-clienteCreado.png>]
+<../img/pr2odoo57-diferentesClientesSimultaneos.png, id=359, 615.80063pt x 692.5875pt>
 File: ../img/pr2odoo57-diferentesClientesSimultaneos.png Graphic file (type png)
 <use ../img/pr2odoo57-diferentesClientesSimultaneos.png>
-Package pdftex.def Info: ../img/pr2odoo57-diferentesClientesSimultaneos.png  used on input line 505.
+Package pdftex.def Info: ../img/pr2odoo57-diferentesClientesSimultaneos.png  used on input line 544.
 (pdftex.def)             Requested size: 195.0pt x 219.30756pt.
-<../img/pr2odoo58-validacionPago.png, id=353, 1041.1397pt x 686.565pt>
+<../img/pr2odoo58-validacionPago.png, id=360, 1041.1397pt x 686.565pt>
 File: ../img/pr2odoo58-validacionPago.png Graphic file (type png)
 <use ../img/pr2odoo58-validacionPago.png>
-Package pdftex.def Info: ../img/pr2odoo58-validacionPago.png  used on input line 512.
+Package pdftex.def Info: ../img/pr2odoo58-validacionPago.png  used on input line 551.
 (pdftex.def)             Requested size: 195.0pt x 128.58395pt.
 
 
@@ -864,21 +872,21 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[20 <../img/pr2odoo56-operacionesCliente101.png> <../img/pr2odoo57-diferentesClientesSimultaneos.png>]
-<../img/pr2odoo59-pagoCompletado101.png, id=362, 1278.27562pt x 685.8122pt>
+[22 <../img/pr2odoo56-operacionesCliente101.png> <../img/pr2odoo57-diferentesClientesSimultaneos.png>]
+<../img/pr2odoo59-pagoCompletado101.png, id=369, 1278.27562pt x 685.8122pt>
 File: ../img/pr2odoo59-pagoCompletado101.png Graphic file (type png)
 <use ../img/pr2odoo59-pagoCompletado101.png>
-Package pdftex.def Info: ../img/pr2odoo59-pagoCompletado101.png  used on input line 519.
+Package pdftex.def Info: ../img/pr2odoo59-pagoCompletado101.png  used on input line 558.
 (pdftex.def)             Requested size: 195.0pt x 104.61497pt.
-<../img/pr2odoo60-cierreCaja.png, id=363, 665.48625pt x 561.59813pt>
+<../img/pr2odoo60-cierreCaja.png, id=370, 665.48625pt x 561.59813pt>
 File: ../img/pr2odoo60-cierreCaja.png Graphic file (type png)
 <use ../img/pr2odoo60-cierreCaja.png>
-Package pdftex.def Info: ../img/pr2odoo60-cierreCaja.png  used on input line 526.
+Package pdftex.def Info: ../img/pr2odoo60-cierreCaja.png  used on input line 565.
 (pdftex.def)             Requested size: 195.0pt x 164.556pt.
-<../img/pr2odoo61-estadoFinalSesion.png, id=364, 1312.905pt x 170.88844pt>
+<../img/pr2odoo61-estadoFinalSesion.png, id=371, 1312.905pt x 170.88844pt>
 File: ../img/pr2odoo61-estadoFinalSesion.png Graphic file (type png)
 <use ../img/pr2odoo61-estadoFinalSesion.png>
-Package pdftex.def Info: ../img/pr2odoo61-estadoFinalSesion.png  used on input line 533.
+Package pdftex.def Info: ../img/pr2odoo61-estadoFinalSesion.png  used on input line 572.
 (pdftex.def)             Requested size: 195.0pt x 25.37923pt.
 
 
@@ -886,86 +894,95 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[21 <../img/pr2odoo58-validacionPago.png> <../img/pr2odoo59-pagoCompletado101.png> <../img/pr2odoo60-cierreCaja.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 562--563
+[23 <../img/pr2odoo58-validacionPago.png> <../img/pr2odoo59-pagoCompletado101.png> <../img/pr2odoo60-cierreCaja.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 601--602
 
  []
 
-<../img/pr2odoo62-pantallaPrincipal.png, id=376, 1406.25375pt x 277.035pt>
+<../img/pr2odoo62-pantallaPrincipal.png, id=383, 1406.25375pt x 277.035pt>
 File: ../img/pr2odoo62-pantallaPrincipal.png Graphic file (type png)
 <use ../img/pr2odoo62-pantallaPrincipal.png>
-Package pdftex.def Info: ../img/pr2odoo62-pantallaPrincipal.png  used on input line 568.
+Package pdftex.def Info: ../img/pr2odoo62-pantallaPrincipal.png  used on input line 608.
 (pdftex.def)             Requested size: 195.0pt x 38.41263pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[22 <../img/pr2odoo61-estadoFinalSesion.png>]
-<../img/pr2odoo63-edicionContacto.png, id=384, 1030.60031pt x 584.93532pt>
+[24 <../img/pr2odoo61-estadoFinalSesion.png>]
+<../img/pr2odoo63-edicionContacto.png, id=391, 1030.60031pt x 584.93532pt>
 File: ../img/pr2odoo63-edicionContacto.png Graphic file (type png)
 <use ../img/pr2odoo63-edicionContacto.png>
-Package pdftex.def Info: ../img/pr2odoo63-edicionContacto.png  used on input line 575.
+Package pdftex.def Info: ../img/pr2odoo63-edicionContacto.png  used on input line 615.
 (pdftex.def)             Requested size: 195.0pt x 110.67474pt.
-<../img/pr2odoo64-nuevoContacto.png, id=385, 977.15062pt x 514.17094pt>
+<../img/pr2odoo64-nuevoContacto.png, id=392, 977.15062pt x 514.17094pt>
 File: ../img/pr2odoo64-nuevoContacto.png Graphic file (type png)
 <use ../img/pr2odoo64-nuevoContacto.png>
-Package pdftex.def Info: ../img/pr2odoo64-nuevoContacto.png  used on input line 583.
+Package pdftex.def Info: ../img/pr2odoo64-nuevoContacto.png  used on input line 623.
 (pdftex.def)             Requested size: 195.0pt x 102.60484pt.
-<../img/pr2odoo65-opcionesContacto.png, id=386, 1086.30844pt x 450.9347pt>
+<../img/pr2odoo65-opcionesContacto.png, id=393, 1086.30844pt x 450.9347pt>
 File: ../img/pr2odoo65-opcionesContacto.png Graphic file (type png)
 <use ../img/pr2odoo65-opcionesContacto.png>
-Package pdftex.def Info: ../img/pr2odoo65-opcionesContacto.png  used on input line 591.
+Package pdftex.def Info: ../img/pr2odoo65-opcionesContacto.png  used on input line 631.
 (pdftex.def)             Requested size: 195.0pt x 80.94455pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 597--598
+
+[25 <../img/pr2odoo62-pantallaPrincipal.png> <../img/pr2odoo63-edicionContacto.png> <../img/pr2odoo64-nuevoContacto.png> <../img/pr2odoo65-opcionesContacto.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 645--646
 
  []
 
-
-
-[23 <../img/pr2odoo62-pantallaPrincipal.png> <../img/pr2odoo63-edicionContacto.png> <../img/pr2odoo64-nuevoContacto.png> <../img/pr2odoo65-opcionesContacto.png>]
-<../img/pr2odoo66-pantallaPrincipal.png, id=400, 1402.48969pt x 483.30562pt>
+<../img/pr2odoo66-pantallaPrincipal.png, id=408, 1402.48969pt x 483.30562pt>
 File: ../img/pr2odoo66-pantallaPrincipal.png Graphic file (type png)
 <use ../img/pr2odoo66-pantallaPrincipal.png>
-Package pdftex.def Info: ../img/pr2odoo66-pantallaPrincipal.png  used on input line 603.
+Package pdftex.def Info: ../img/pr2odoo66-pantallaPrincipal.png  used on input line 653.
 (pdftex.def)             Requested size: 195.0pt x 67.19772pt.
-<../img/pr2odoo67-nuevaOportunidad.png, id=401, 371.88937pt x 507.39563pt>
+<../img/pr2odoo67-nuevaOportunidad.png, id=409, 371.88937pt x 507.39563pt>
 File: ../img/pr2odoo67-nuevaOportunidad.png Graphic file (type png)
 <use ../img/pr2odoo67-nuevaOportunidad.png>
-Package pdftex.def Info: ../img/pr2odoo67-nuevaOportunidad.png  used on input line 610.
+Package pdftex.def Info: ../img/pr2odoo67-nuevaOportunidad.png  used on input line 660.
 (pdftex.def)             Requested size: 195.0pt x 266.06152pt.
-<../img/pr2odoo68-oportunidadCreada.png, id=402, 706.89093pt x 262.73157pt>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+[26 <../img/pr2odoo66-pantallaPrincipal.png>]
+<../img/pr2odoo68-oportunidadCreada.png, id=416, 706.89093pt x 262.73157pt>
 File: ../img/pr2odoo68-oportunidadCreada.png Graphic file (type png)
 <use ../img/pr2odoo68-oportunidadCreada.png>
-Package pdftex.def Info: ../img/pr2odoo68-oportunidadCreada.png  used on input line 617.
+Package pdftex.def Info: ../img/pr2odoo68-oportunidadCreada.png  used on input line 667.
 (pdftex.def)             Requested size: 195.0pt x 72.47389pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-
-[24 <../img/pr2odoo66-pantallaPrincipal.png> <../img/pr2odoo67-nuevaOportunidad.png>]
-<../img/pr2odoo69-oportunidadOpciones.png, id=411, 925.20656pt x 643.6547pt>
+<../img/pr2odoo69-oportunidadOpciones.png, id=417, 925.20656pt x 643.6547pt>
 File: ../img/pr2odoo69-oportunidadOpciones.png Graphic file (type png)
 <use ../img/pr2odoo69-oportunidadOpciones.png>
-Package pdftex.def Info: ../img/pr2odoo69-oportunidadOpciones.png  used on input line 624.
+Package pdftex.def Info: ../img/pr2odoo69-oportunidadOpciones.png  used on input line 674.
 (pdftex.def)             Requested size: 195.0pt x 135.65271pt.
-<../img/pr2odoo70-oportunidadGanado.png, id=412, 1116.42094pt x 355.3275pt>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+[27 <../img/pr2odoo67-nuevaOportunidad.png> <../img/pr2odoo68-oportunidadCreada.png>]
+<../img/pr2odoo70-oportunidadGanado.png, id=426, 1116.42094pt x 355.3275pt>
 File: ../img/pr2odoo70-oportunidadGanado.png Graphic file (type png)
 <use ../img/pr2odoo70-oportunidadGanado.png>
-Package pdftex.def Info: ../img/pr2odoo70-oportunidadGanado.png  used on input line 631.
+Package pdftex.def Info: ../img/pr2odoo70-oportunidadGanado.png  used on input line 681.
 (pdftex.def)             Requested size: 195.0pt x 62.06395pt.
-<../img/pr2odoo71-oportunidadPerdida.png, id=413, 523.20468pt x 264.23718pt>
+<../img/pr2odoo71-oportunidadPerdida.png, id=427, 523.20468pt x 264.23718pt>
 File: ../img/pr2odoo71-oportunidadPerdida.png Graphic file (type png)
 <use ../img/pr2odoo71-oportunidadPerdida.png>
-Package pdftex.def Info: ../img/pr2odoo71-oportunidadPerdida.png  used on input line 638.
+Package pdftex.def Info: ../img/pr2odoo71-oportunidadPerdida.png  used on input line 688.
 (pdftex.def)             Requested size: 195.0pt x 98.47987pt.
-<../img/pr2odoo72-cambioDeEtapa.png, id=414, 974.13937pt x 267.24844pt>
+<../img/pr2odoo72-cambioDeEtapa.png, id=428, 974.13937pt x 267.24844pt>
 File: ../img/pr2odoo72-cambioDeEtapa.png Graphic file (type png)
 <use ../img/pr2odoo72-cambioDeEtapa.png>
-Package pdftex.def Info: ../img/pr2odoo72-cambioDeEtapa.png  used on input line 645.
+Package pdftex.def Info: ../img/pr2odoo72-cambioDeEtapa.png  used on input line 695.
+(pdftex.def)             Requested size: 195.0pt x 53.49359pt.
+File: ../img/pr2odoo72-cambioDeEtapa.png Graphic file (type png)
+<use ../img/pr2odoo72-cambioDeEtapa.png>
+Package pdftex.def Info: ../img/pr2odoo72-cambioDeEtapa.png  used on input line 702.
 (pdftex.def)             Requested size: 195.0pt x 53.49359pt.
 
 
@@ -973,152 +990,136 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[25 <../img/pr2odoo68-oportunidadCreada.png> <../img/pr2odoo69-oportunidadOpciones.png> <../img/pr2odoo70-oportunidadGanado.png> <../img/pr2odoo71-oportunidadPerdida.png>]
-File: ../img/pr2odoo72-cambioDeEtapa.png Graphic file (type png)
-<use ../img/pr2odoo72-cambioDeEtapa.png>
-Package pdftex.def Info: ../img/pr2odoo72-cambioDeEtapa.png  used on input line 652.
-(pdftex.def)             Requested size: 195.0pt x 53.49359pt.
-<../img/pr2odoo73-añadirOportunidadDirectamenteEnEtapa.png, id=428, 1023.825pt x 391.4625pt>
+[28 <../img/pr2odoo69-oportunidadOpciones.png> <../img/pr2odoo70-oportunidadGanado.png> <../img/pr2odoo71-oportunidadPerdida.png> <../img/pr2odoo72-cambioDeEtapa.png>]
+<../img/pr2odoo73-añadirOportunidadDirectamenteEnEtapa.png, id=441, 1023.825pt x 391.4625pt>
 File: ../img/pr2odoo73-añadirOportunidadDirectamenteEnEtapa.png Graphic file (type png)
 <use ../img/pr2odoo73-añadirOportunidadDirectamenteEnEtapa.png>
-Package pdftex.def Info: ../img/pr2odoo73-añadirOportunidadDirectamenteEnEtapa.png  used on input line 659.
+Package pdftex.def Info: ../img/pr2odoo73-añadirOportunidadDirectamenteEnEtapa.png  used on input line 709.
 (pdftex.def)             Requested size: 195.0pt x 74.55783pt.
-<../img/pr2odoo74-crearEtapa.png, id=429, 1021.56656pt x 341.02406pt>
+<../img/pr2odoo74-crearEtapa.png, id=442, 1021.56656pt x 341.02406pt>
 File: ../img/pr2odoo74-crearEtapa.png Graphic file (type png)
 <use ../img/pr2odoo74-crearEtapa.png>
-Package pdftex.def Info: ../img/pr2odoo74-crearEtapa.png  used on input line 666.
+Package pdftex.def Info: ../img/pr2odoo74-crearEtapa.png  used on input line 716.
 (pdftex.def)             Requested size: 195.0pt x 65.09184pt.
-<../img/pr2odoo75-cambioManualDeEtapa.png, id=430, 1028.34187pt x 505.89pt>
+<../img/pr2odoo75-cambioManualDeEtapa.png, id=443, 1028.34187pt x 505.89pt>
 File: ../img/pr2odoo75-cambioManualDeEtapa.png Graphic file (type png)
 <use ../img/pr2odoo75-cambioManualDeEtapa.png>
-Package pdftex.def Info: ../img/pr2odoo75-cambioManualDeEtapa.png  used on input line 673.
+Package pdftex.def Info: ../img/pr2odoo75-cambioManualDeEtapa.png  used on input line 723.
 (pdftex.def)             Requested size: 195.0pt x 95.92711pt.
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-
-[26 <../img/pr2odoo72-cambioDeEtapa.png> <../img/pr2odoo73-añadirOportunidadDirectamenteEnEtapa.png> <../img/pr2odoo74-crearEtapa.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 699--700
+[29 <../img/pr2odoo73-añadirOportunidadDirectamenteEnEtapa.png> <../img/pr2odoo74-crearEtapa.png> <../img/pr2odoo75-cambioManualDeEtapa.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 749--750
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 704--705
+Underfull \hbox (badness 10000) in paragraph at lines 754--755
 
  []
 
-<../img/pr2odoo76-backupInterfazPrincipal.png, id=444, 484.05844pt x 237.88875pt>
+<../img/pr2odoo76-backupInterfazPrincipal.png, id=459, 484.05844pt x 237.88875pt>
 File: ../img/pr2odoo76-backupInterfazPrincipal.png Graphic file (type png)
 <use ../img/pr2odoo76-backupInterfazPrincipal.png>
-Package pdftex.def Info: ../img/pr2odoo76-backupInterfazPrincipal.png  used on input line 714.
+Package pdftex.def Info: ../img/pr2odoo76-backupInterfazPrincipal.png  used on input line 764.
 (pdftex.def)             Requested size: 195.0pt x 95.8326pt.
+<../img/pr2odoo77-backupInterfazPantallaCambio.png, id=460, 423.83344pt x 402.75468pt>
+File: ../img/pr2odoo77-backupInterfazPantallaCambio.png Graphic file (type png)
+<use ../img/pr2odoo77-backupInterfazPantallaCambio.png>
+Package pdftex.def Info: ../img/pr2odoo77-backupInterfazPantallaCambio.png  used on input line 771.
+(pdftex.def)             Requested size: 195.0pt x 185.30013pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[27 <../img/pr2odoo75-cambioManualDeEtapa.png>]
-<../img/pr2odoo77-backupInterfazPantallaCambio.png, id=461, 423.83344pt x 402.75468pt>
-File: ../img/pr2odoo77-backupInterfazPantallaCambio.png Graphic file (type png)
-<use ../img/pr2odoo77-backupInterfazPantallaCambio.png>
-Package pdftex.def Info: ../img/pr2odoo77-backupInterfazPantallaCambio.png  used on input line 721.
-(pdftex.def)             Requested size: 195.0pt x 185.30013pt.
-<../img/pr2odoo78-backupInterfazDescargado.png, id=462, 941.01563pt x 358.33875pt>
+[30 <../img/pr2odoo76-backupInterfazPrincipal.png>]
+<../img/pr2odoo78-backupInterfazDescargado.png, id=475, 941.01563pt x 358.33875pt>
 File: ../img/pr2odoo78-backupInterfazDescargado.png Graphic file (type png)
 <use ../img/pr2odoo78-backupInterfazDescargado.png>
-Package pdftex.def Info: ../img/pr2odoo78-backupInterfazDescargado.png  used on input line 728.
+Package pdftex.def Info: ../img/pr2odoo78-backupInterfazDescargado.png  used on input line 778.
 (pdftex.def)             Requested size: 195.0pt x 74.25275pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 734--735
+Underfull \hbox (badness 10000) in paragraph at lines 784--785
 
  []
 
-<../img/pr2odoo79-dockerPS.png, id=464, 1357.32094pt x 97.86563pt>
+<../img/pr2odoo79-dockerPS.png, id=477, 1357.32094pt x 97.86563pt>
 File: ../img/pr2odoo79-dockerPS.png Graphic file (type png)
 <use ../img/pr2odoo79-dockerPS.png>
-Package pdftex.def Info: ../img/pr2odoo79-dockerPS.png  used on input line 743.
+Package pdftex.def Info: ../img/pr2odoo79-dockerPS.png  used on input line 793.
 (pdftex.def)             Requested size: 195.0pt x 14.05948pt.
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-
-[28 <../img/pr2odoo76-backupInterfazPrincipal.png> <../img/pr2odoo77-backupInterfazPantallaCambio.png> <../img/pr2odoo78-backupInterfazDescargado.png>]
-Overfull \hbox (184.27528pt too wide) in paragraph at lines 751--751
+Overfull \hbox (184.27528pt too wide) in paragraph at lines 801--801
 []    \OT1/cmtt/m/n/12 docker exec 98832932c559 pg_dump -U odoo -F c odoo_test > C:\odoo_backups\odoo_backup.sql[] 
  []
 
-<../img/pr2odoo80-comandoBackup.png, id=475, 778.40813pt x 36.88782pt>
+
+
+[31 <../img/pr2odoo77-backupInterfazPantallaCambio.png> <../img/pr2odoo78-backupInterfazDescargado.png> <../img/pr2odoo79-dockerPS.png>]
+<../img/pr2odoo80-comandoBackup.png, id=489, 778.40813pt x 36.88782pt>
 File: ../img/pr2odoo80-comandoBackup.png Graphic file (type png)
 <use ../img/pr2odoo80-comandoBackup.png>
-Package pdftex.def Info: ../img/pr2odoo80-comandoBackup.png  used on input line 761.
+Package pdftex.def Info: ../img/pr2odoo80-comandoBackup.png  used on input line 811.
 (pdftex.def)             Requested size: 195.0pt x 9.2405pt.
-<../img/pr2odoo81-backupRealizado.png, id=476, 646.66594pt x 210.03468pt>
+<../img/pr2odoo81-backupRealizado.png, id=490, 646.66594pt x 210.03468pt>
 File: ../img/pr2odoo81-backupRealizado.png Graphic file (type png)
 <use ../img/pr2odoo81-backupRealizado.png>
-Package pdftex.def Info: ../img/pr2odoo81-backupRealizado.png  used on input line 768.
+Package pdftex.def Info: ../img/pr2odoo81-backupRealizado.png  used on input line 818.
 (pdftex.def)             Requested size: 195.0pt x 63.33458pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 774--775
+Underfull \hbox (badness 10000) in paragraph at lines 824--825
 
  []
 
-<../img/pr2odoo82-crearDirectorio.png, id=478, 680.5425pt x 16.56187pt>
+<../img/pr2odoo82-crearDirectorio.png, id=492, 680.5425pt x 16.56187pt>
 File: ../img/pr2odoo82-crearDirectorio.png Graphic file (type png)
 <use ../img/pr2odoo82-crearDirectorio.png>
-Package pdftex.def Info: ../img/pr2odoo82-crearDirectorio.png  used on input line 788.
+Package pdftex.def Info: ../img/pr2odoo82-crearDirectorio.png  used on input line 838.
 (pdftex.def)             Requested size: 195.0pt x 4.74545pt.
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-
-[29 <../img/pr2odoo79-dockerPS.png> <../img/pr2odoo80-comandoBackup.png> <../img/pr2odoo81-backupRealizado.png>]
-Overfull \hbox (128.70026pt too wide) in paragraph at lines 796--796
+Overfull \hbox (128.70026pt too wide) in paragraph at lines 846--846
 []    \OT1/cmtt/m/n/12 docker exec -it e0.bigodoo.net cp /etc/odoo/odoo.conf /etc/odoo/odoo.conf.backup[] 
  []
 
-<../img/pr2odoo83-crearBackup.png, id=489, 680.5425pt x 16.56187pt>
+<../img/pr2odoo83-crearBackup.png, id=493, 680.5425pt x 16.56187pt>
 File: ../img/pr2odoo83-crearBackup.png Graphic file (type png)
 <use ../img/pr2odoo83-crearBackup.png>
-Package pdftex.def Info: ../img/pr2odoo83-crearBackup.png  used on input line 806.
+Package pdftex.def Info: ../img/pr2odoo83-crearBackup.png  used on input line 856.
 (pdftex.def)             Requested size: 195.0pt x 4.74545pt.
-
-Overfull \hbox (29.9002pt too wide) in paragraph at lines 814--814
-[]    \OT1/cmtt/m/n/12 docker exec -it e0.bigodoo.net ls -la /etc/odoo/odoo.conf.backup[] 
- []
-
-<../img/pr2odoo84-comprobarBackup.png, id=490, 680.5425pt x 30.1125pt>
-File: ../img/pr2odoo84-comprobarBackup.png Graphic file (type png)
-<use ../img/pr2odoo84-comprobarBackup.png>
-Package pdftex.def Info: ../img/pr2odoo84-comprobarBackup.png  used on input line 823.
-(pdftex.def)             Requested size: 195.0pt x 8.62808pt.
-
-Overfull \hbox (36.07521pt too wide) in paragraph at lines 831--831
-[]    \OT1/cmtt/m/n/12 docker cp e0.bigodoo.net:/etc/odoo/odoo.conf.backup C:/odoobackup[] 
- []
-
-<../img/pr2odoo85-copiarBackupAhost.png, id=491, 577.40718pt x 48.93282pt>
-File: ../img/pr2odoo85-copiarBackupAhost.png Graphic file (type png)
-<use ../img/pr2odoo85-copiarBackupAhost.png>
-Package pdftex.def Info: ../img/pr2odoo85-copiarBackupAhost.png  used on input line 841.
-(pdftex.def)             Requested size: 195.0pt x 16.52567pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[30 <../img/pr2odoo82-crearDirectorio.png> <../img/pr2odoo83-crearBackup.png> <../img/pr2odoo84-comprobarBackup.png>]
-<../img/pr2odoo86-backupCopiado.png, id=502, 600.74437pt x 191.21437pt>
+[32 <../img/pr2odoo80-comandoBackup.png> <../img/pr2odoo81-backupRealizado.png> <../img/pr2odoo82-crearDirectorio.png>]
+Overfull \hbox (29.9002pt too wide) in paragraph at lines 864--864
+[]    \OT1/cmtt/m/n/12 docker exec -it e0.bigodoo.net ls -la /etc/odoo/odoo.conf.backup[] 
+ []
+
+<../img/pr2odoo84-comprobarBackup.png, id=504, 680.5425pt x 30.1125pt>
+File: ../img/pr2odoo84-comprobarBackup.png Graphic file (type png)
+<use ../img/pr2odoo84-comprobarBackup.png>
+Package pdftex.def Info: ../img/pr2odoo84-comprobarBackup.png  used on input line 873.
+(pdftex.def)             Requested size: 195.0pt x 8.62808pt.
+
+Overfull \hbox (36.07521pt too wide) in paragraph at lines 881--881
+[]    \OT1/cmtt/m/n/12 docker cp e0.bigodoo.net:/etc/odoo/odoo.conf.backup C:/odoobackup[] 
+ []
+
+<../img/pr2odoo85-copiarBackupAhost.png, id=505, 577.40718pt x 48.93282pt>
+File: ../img/pr2odoo85-copiarBackupAhost.png Graphic file (type png)
+<use ../img/pr2odoo85-copiarBackupAhost.png>
+Package pdftex.def Info: ../img/pr2odoo85-copiarBackupAhost.png  used on input line 891.
+(pdftex.def)             Requested size: 195.0pt x 16.52567pt.
+<../img/pr2odoo86-backupCopiado.png, id=506, 600.74437pt x 191.21437pt>
 File: ../img/pr2odoo86-backupCopiado.png Graphic file (type png)
 <use ../img/pr2odoo86-backupCopiado.png>
-Package pdftex.def Info: ../img/pr2odoo86-backupCopiado.png  used on input line 848.
+Package pdftex.def Info: ../img/pr2odoo86-backupCopiado.png  used on input line 898.
 (pdftex.def)             Requested size: 195.0pt x 62.06807pt.
 
 
-[31 <../img/pr2odoo85-copiarBackupAhost.png> <../img/pr2odoo86-backupCopiado.png>] (index.aux
+[33 <../img/pr2odoo83-crearBackup.png> <../img/pr2odoo84-comprobarBackup.png> <../img/pr2odoo85-copiarBackupAhost.png> <../img/pr2odoo86-backupCopiado.png>] (index.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 )
@@ -1132,15 +1133,15 @@ Package rerunfilecheck Info: File `index.out' has not changed.
 Here is how much of TeX's memory you used:
  11458 strings out of 468130
  200637 string characters out of 5429181
- 590917 words of memory out of 5000000
+ 591917 words of memory out of 5000000
  39808 multiletter control sequences out of 15000+600000
  633494 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 63i,6n,67p,452b,612s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 63i,6n,67p,501b,634s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\danielcc\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\danielcc\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1440.pk><C:/Users/danielcc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/danielcc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/danielcc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/danielcc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/danielcc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on index.pdf (31 pages, 2474009 bytes).
+Output written on index.pdf (33 pages, 2479025 bytes).
 PDF statistics:
- 577 PDF objects out of 1000 (max. 8388607)
+ 584 PDF objects out of 1000 (max. 8388607)
  158 named destinations out of 1000 (max. 500000)
  551 words of extra memory for PDF output out of 10000 (max. 10000000)
 

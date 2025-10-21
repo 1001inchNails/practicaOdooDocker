@@ -41,7 +41,7 @@ capturas.
 \section{Modulos a instalar}
 \hyperlink{anchor-indice}{\textbf{Volver}}\\
 
-La práctica requiere del uso de los modulos: 
+La práctica requiere del uso de los siguientes modulos: 
 \begin{enumerate}
     \item Facturación
     \item Empleados
@@ -62,11 +62,15 @@ He escogido Contactos y CRM porque me han parecido de gran utilidad para ayudar 
 \FloatBarrier
 
 \section{Análisis de módulos}
+\hyperlink{anchor-indice}{\textbf{Volver}}\\
+
+Estos módulos forman parte del conjunto completo de herramientas empresariales de Odoo, cada uno especializado en un aspecto diferente de la gestión empresarial.
 
 \subsection{Facturación}
 \hyperlink{anchor-indice}{\textbf{Volver}}\\
 
-Permite la creación y gestión de las facturas, controlar sus estados, importar y exportar registros, etc.
+El módulo de Facturación es fundamental para la gestión financiera de cualquier empresa. Este módulo permite automatizar completamente el proceso de facturación, desde la generación de facturas hasta el seguimiento de pagos y estados de cuenta.
+Una de sus principales ventajas es la capacidad de mantener un registro preciso y organizado de todas las transacciones financieras, facilitando así la elaboración de informes y el cumplimiento de obligaciones fiscales. Además, se integra perfectamente con otros módulos como Ventas y Compras, permitiendo un flujo de información financiera sin obstrucciones a través de toda la empresa.
 
 \begin{figure}[h!]
     \centering
@@ -133,12 +137,28 @@ Rellenamos los campos con la información pertinente.
 \end{figure}
 \FloatBarrier
 
+La pestaña Clientes permite organizar pagos, facturas, clientes y productos.
+
+En Proveedores se manejan las facturas, reembolsos, pagos, productos y listas de los mismos.
+
+Informes se ocupa del análisis de facturas.
+
+Configuración permite editar:
+\begin{enumerate}
+    \item Condiciones de pago.
+    \item Información bancaria.
+    \item Contabilidad.
+    \item Pagos en línea
+    \item Categorías de productos.
+\end{enumerate}
+
 
 \subsection{Empleados}
 \hyperlink{anchor-indice}{\textbf{Volver}}\\
 
-Aquí podemos crear nuevos empleados, departamentos e informes, así como realizar todos los ajustes necesarios a los mismos. Permite realizar un seguimiento exhaustivo de todos los empleados desde su contratación hasta su terminación si es que esta sucediese, todos sus datos, habilidades, jornada, salidas, entorno de trabajo, etc.
-
+El módulo de Empleados constituye el centro neurálgico de la gestión de recursos humanos con Odoo. Este nos permite llevar un control exhaustivo del ciclo de vida laboral de cada empleado, desde su incorporación hasta su potencial salida de la empresa.
+Incluye herramientas para el control de asistencia y ausencias, la gestión de contratos y beneficios laborales, así como el seguimiento de evaluaciones de rendimiento y desarrollo profesional.
+Su integración con otros módulos permite optimizar la planificación de recursos humanos y mejorar la eficiencia operativa de la organización.
 
 \begin{figure}[h!]
     \centering
@@ -252,13 +272,16 @@ Aquí podemos crear nuevos empleados, departamentos e informes, así como realiz
 \end{figure}
 \FloatBarrier
 
+Las pestañas de Empleados, Departamentos e Informes llevan a su sección correspondiente.
+
+Configuración permite editar el plan de actividad, la información de empleados y de reclutamiento.
+
 
 \subsection{Compras}
 \hyperlink{anchor-indice}{\textbf{Volver}}\\
 
-Este módulo se ocupa del proceso de compras, creación de presupuesto, seguimiento de recepción de productos y pagos según acordado, categorización de facturas según estado actual, informes de análisis de las compras realizadas o en curso, listas de precios y proveedores, etc.
-
-Los presupuestos y consecuentes facturas tienen absolutamente todos los detalles y requisitos en cuenta, desde los métodos y tipos de pago hasta el modelo de recepción de productos.
+El módulo de Compras es esencial para la gestión de la cadena de suministros. Permite centralizar y optimizar todo el proceso de compras, desde la solicitud inicial hasta la recepción de la mercancía.
+Una de sus características más importantes es la capacidad de establecer reglas de reposición automática del inventario, lo que ayuda a mantener niveles óptimos de stock y evitar falta o exceso de inventario. Además, facilita la negociación con proveedores y el análisis comparativo de precios, contribuyendo así a la reducción de costos y mejora de la rentabilidad.
 
 \begin{figure}[h!]
     \centering
@@ -351,32 +374,16 @@ Los presupuestos y consecuentes facturas tienen absolutamente todos los detalles
 \end{figure}
 \FloatBarrier
 
+Las pestañas de Pedidos, Productos e Informes llevan a su sección correspondiente.
+
+Configuración permite editar las listas de precios de proveedor y las categorías de productos.
+
 
 \subsection{Ventas}
 \hyperlink{anchor-indice}{\textbf{Volver}}\\
 
-Módulo muy parecido a compras, aplicado a las ventas. De igual forma cubre todos los aspectos del proceso, con seguimiento de todos los elementos del proceso: presupuestos, pedidos, equipos de ventas y clientes.
-
-Distingue también las secciones para pedidos a facturar y para ventas adicionales, informes de ventas, comerciales, de productos y de clientes, así como tambén permite configurar todos los aspectos necesarios en:
-\begin{itemize}
-    \item Pedidos:
-    \begin{enumerate}
-        \item Encabezados.
-        \item Etiquetas.
-    \end{enumerate}
-    \item Productos:
-    \begin{enumerate}
-        \item Opciones.
-        \item Categorías.
-        \item Etiquetas.
-    \end{enumerate}
-    \item Pagos en línea:
-    \begin{enumerate}
-        \item Proveedores.
-        \item Métodos de pago.
-    \end{enumerate}
-    \item Planes de actividad.
-\end{itemize}
+El módulo de Ventas es otro de los pilares de Odoo, proporcionando herramientas avanzadas para gestionar todo el proceso de ventas, desde la captación de leads hasta la entrega final del producto.
+Ofrece capacidades robustas para crear y gestionar cotizaciones, convertir oportunidades en ventas, y realizar un seguimiento detallado de pedidos y entregas. Su integración con el módulo CRM permite mantener una visión completa del cliente y personalizar la experiencia comercial según las necesidades específicas y comportamiento de compra.
 
 \begin{figure}[h!]
     \centering
@@ -434,8 +441,40 @@ Distingue también las secciones para pedidos a facturar y para ventas adicional
 \end{figure}
 \FloatBarrier
 
+La pestaña de Pedidos se ocupa de:
+\begin{itemize}
+    \item Presupuestos
+    \item Equipos de ventas
+    \item Pedidos
+    \item Clientes
+\end{itemize}
+
+La pestaña de A facturar se ocupa de pedidos a facturar y pedidos para ventas adicionales.
+
+Productos lleva a su propia sección.
+
+La pestaña de Informes se ocupa de:
+\begin{itemize}
+    \item Ventas
+    \item Comerciales
+    \item Productos
+    \item Clientes
+\end{itemize}
+
+Las pestañas de configuración permiten:
+\begin{itemize}
+    \item Equipos de ventas
+    \item Formato de pedidos
+    \item Productos
+    \item Pagos en línea
+    \item Actividades
+\end{itemize}
+
 \subsection{Punto de venta}
 \hyperlink{anchor-indice}{\textbf{Volver}}\\
+
+El módulo de Punto de Venta permite para gestionar operaciones comerciales en tiempo real, incluso cuando no hay conexión a internet. Puede realizar ventas rápidas y eficientes, gestionar efectivo y tarjetas, y mantener un control preciso de la caja registradora con una interfaz gráfica sencilla e intuitiva.
+Una característica destacada es su capacidad para implementar programas de fidelidad y aplicar automáticamente descuentos o promociones a clientes frecuentes, mejorando así la experiencia del cliente y fomentando la lealtad hacia la marca.
 
 \begin{figure}[h!]
     \centering
@@ -561,7 +600,8 @@ Las pestañas de configuración permiten:
 \subsection{Contactos}
 \hyperlink{anchor-indice}{\textbf{Volver}}\\
 
-Es un módulo muy sencillo, recoje en un mismo sitio todos los contactos existentes en la base de datos. Permite no solo ver sino también modificar, añadir, eliminar, mandar comunicaciones, etc.
+El módulo de Contactos funciona como el repositorio central de información sobre clientes, proveedores y socios comerciales. Permite mantener un registro detallado y actualizado de toda la información relevante, incluyendo historial de interacciones, preferencias y datos demográficos.
+Su integración con otros módulos permite sincronizar automáticamente la información y mantener una visión unificada de cada contacto a través de toda la organización, facilitando así la comunicación y la gestión de personal.
 
 \begin{figure}[h!]
     \centering
@@ -593,10 +633,20 @@ Es un módulo muy sencillo, recoje en un mismo sitio todos los contactos existen
 \end{figure}
 \FloatBarrier
 
+Las pestañas de configuración permiten configurar:
+\begin{itemize}
+    \item Etiquetas y títulos de contacto
+    \item Sectores
+    \item Opciones de localización
+    \item Datos de cuentas bancarias
+\end{itemize}
+
 \subsection{CRM}
 \hyperlink{anchor-indice}{\textbf{Volver}}\\
 
-CRM (Customer Relationship Management) es un pequeño pero curioso modulo que permite controlar el estado de oportunidades (negociaciones, tratos, etc). Es básicamente un tablero Kanban.
+El módulo CRM (Customer Relationship Management) permite enfocarse en los clientes y las necesidades de ventas, mediante seguimiento de leads y pronósticos precisos con el objetivo de cerrar oportunidades.
+Cada oportunidad aparece en un entorno Kanban como una tarjeta en una lista con toda la información relevante y cada etapa muestra un resumen general de los ingresos esperados.
+Este entorno Kanban permite organizar las oportunidades y moverlas según sea preciso.
 
 \begin{figure}[h!]
     \centering

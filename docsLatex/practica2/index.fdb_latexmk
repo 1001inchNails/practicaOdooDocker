@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1761067702.42282 "c:/Users/danielcc/Desktop/DAM 1T/code/vscode/practicaOdooDocker/docsLatex/practica2/index.tex" "index.pdf" "index" 1761067707.03719 0
+["pdflatex"] 1761070906.06119 "c:/Users/danielcc/Desktop/DAM 1T/code/vscode/practicaOdooDocker/docsLatex/practica2/index.tex" "index.pdf" "index" 1761070910.64855 0
   "../img/pr2odoo01-modulosInstalados.png" 1760464245 17180 ea267e3d47e0b99889567216efd9f826 ""
   "../img/pr2odoo02-facturacMain.png" 1760464764 71954 497b993e31df8ccf9029c43498db71ba ""
   "../img/pr2odoo03-facturac01.png" 1760464903 14002 d48edeb9b934271af6ba170d4b31f0b1 ""
@@ -160,11 +160,11 @@
   "C:/Users/danielcc/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/danielcc/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1751104012 9684 a33a14b82ce60d6e77cb9be689d79ee6 ""
   "C:/Users/danielcc/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "c:/Users/danielcc/Desktop/DAM 1T/code/vscode/practicaOdooDocker/docsLatex/practica2/index.tex" 1761066867 23610 e9493054d9cb64afb3c2e88c0065b5a0 ""
-  "index.aux" 1761067706 14032 bde675d8678caca6d4c37177f7e65181 "pdflatex"
-  "index.out" 1761067706 1822 7c69997e4e014ffde07b9cfac306c591 "pdflatex"
-  "index.tex" 1761066867 23610 e9493054d9cb64afb3c2e88c0065b5a0 ""
-  "index.toc" 1761067706 1203 451349c72f20e930e09ccde477d67063 "pdflatex"
+  "c:/Users/danielcc/Desktop/DAM 1T/code/vscode/practicaOdooDocker/docsLatex/practica2/index.tex" 1761070900 27302 cbc1599a05f5a880251dc9247875680f ""
+  "index.aux" 1761070910 14036 f8e486b86bda17eb8cb1b63c2c2d3408 "pdflatex"
+  "index.out" 1761070910 1822 7c69997e4e014ffde07b9cfac306c591 "pdflatex"
+  "index.tex" 1761070900 27302 cbc1599a05f5a880251dc9247875680f ""
+  "index.toc" 1761070910 1203 c73c807b564262d2a6ec1668d279029c "pdflatex"
   (generated)
   "index.aux"
   "index.log"
